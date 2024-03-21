@@ -8,20 +8,20 @@
 //  //overflow:hidden;
 //}
 //
-.gallery-four{
-
-  //position:relative;
-  //height:100%;
-  //width:100%;
-display: flex;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
-padding: 40px;
-  gap: 10px;
-  align-items: center;
 
 
+
+.gallery-four {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); /* автоматическое распределение элементов по ширине */
+  grid-auto-rows: 190px; /* высота строк */
+  gap: 10px; /* отступы между элементами */
 }
+
+.clipped-border:nth-child(even) {
+  margin-top: 330px; /* добавляем отступ для четных элементов */
+}
+
 
 .gallery-four:after{
   content:'';
@@ -75,9 +75,6 @@ padding: 40px;
   clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
 
 }
-
-
-
 
 .clipped-border:hover{
   transform:scale(1.5);
