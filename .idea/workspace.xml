@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37853f04-5f9d-4b1d-8c49-25a594dafae6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/libs/gsap/ScrollSmoother.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/libs/gsap/ScrollTrigger.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/libs/gsap/gsap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/libs/swiper/swiper-bundle.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/libs/swiper/swiper-bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/libs/swiper/swiper-bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/galery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/01_header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/02-01_galery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/02_portfolio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/03_accordion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/04_3Dparalax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/scroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/common.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/parts/_01_Header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/parts/_02-01_galery.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/parts/_02_Porfolio.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/parts/_03_Acordion.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/parts/_04_3Dparalax.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-    </list>
+    <list default="true" id="37853f04-5f9d-4b1d-8c49-25a594dafae6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +101,7 @@
       <workItem from="1710859515587" duration="22000" />
       <workItem from="1711039157527" duration="47000" />
       <workItem from="1711039552066" duration="269000" />
-      <workItem from="1711039823579" duration="6624000" />
+      <workItem from="1711039823579" duration="7082000" />
     </task>
     <servers />
   </component>
