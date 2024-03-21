@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+    --width: 100%;
+    --height: 100%;
+    --border-width: 200px;
+    --border-height: 200px;
+
+  --index: calc(1vw + 1vh);
+  --color-header: #f4efec;
+  --color-text: #cdc6c3;
+  --gallery-gap: calc(var(--index) * 7.5);
+
+  --sizeindex: calc(1vw + 1vh);
+  --transition: .75s cubic-bezier(.2, .6, 0, 1);
+}
+@font-face {
+  font-family: raleway-c;
+  src: url(../fonts/raleway-regular.woff2);
+}
+@font-face {
+  font-family: outfit-c;
+  src: url(../fonts/outfit-regular.woff2);
+}
+//h1, h2, h3, h4, h5, h6 {
+//  font-family: outfit-c;
+//}
+/* will-change */
+.content, .hero, .main-header, .gallery > * {
+  will-change: transform;
+}
+body, html {
+  background-image: url(../img/bg.jpg);
+  background-size: 50px;
+  color: #fafafa;
+  overflow-x: hidden;
+
+}
+
+
+
